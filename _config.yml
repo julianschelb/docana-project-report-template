@@ -1,0 +1,13 @@
+title: Document Analysis Semester Project
+description: This repository is a GitHub Pages template for Document Analysis course projects. 
+show_downloads: True
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - REPORT.md
+
+theme: jekyll-theme-minimal
