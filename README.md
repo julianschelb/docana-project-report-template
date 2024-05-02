@@ -65,6 +65,14 @@ Present the findings from your experiments, supported by visual or statistical e
 
 Summarize the major outcomes of your project, reflect on the research findings, and clearly state the conclusions you've drawn from the study.
 
+## Contributions
+
+| Team Member  | Contributions                                             |
+|--------------|-----------------------------------------------------------|
+| Alice Smith  | Data collection, preprocessing, model training, evaluation|                                                       |
+| Bob Johnson  | ...                                                       |
+| ...          | ...                                                       |
+
 ## References
 
 Include a list of academic and professional sources you cited in your report, using an appropriate citation format to ensure clarity and proper attribution.
